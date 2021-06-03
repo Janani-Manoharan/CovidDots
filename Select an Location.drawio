@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T01:21:24.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="KPsJCRKGfr-e74Uri_rY" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T01:21:54.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="pufhRf12PI6RC6ZNZx2E" version="14.7.4" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="946" dy="1464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
         <mxCell id="W58t7wLKOuIPBVPJqAUF-31" value="Confirmation Page" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="730" y="120" width="230" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="W58t7wLKOuIPBVPJqAUF-46" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontSize=17;align=left;spacingLeft=3;fontColor=#FFFFFF;labelBackgroundColor=none;fillColor=#80FF00;" parent="1" vertex="1">
+        <mxCell id="W58t7wLKOuIPBVPJqAUF-46" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontSize=17;align=left;spacingLeft=3;labelBackgroundColor=none;fillColor=#FFFFFF;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="475" y="170" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
